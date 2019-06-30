@@ -1,0 +1,230 @@
+Logo
+====================================================
+
+Basics
+-----------
+
+The following contains some guidelines on choosing the appropriate logo for your needs.
+
+You can download the logo in various file formats at the :ref:`Downloads section <logo-downloads>`.
+
+Colours and contrast
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The FlowArtes logo and its variants are available in full colour, black and reverse white.
+
+Full colour logo (with tagline):
+
+.. image:: assets/images/FlowArtes-Logo_color-tagline-small.png
+
+Black logo (with tagline):|br|
+
+.. image:: assets/images/FlowArtes-Logo_black-tagline-small.png
+
+Reverse white logo (with tagline):
+
+.. image:: assets/images/FlowArtes-Logo_white-tagline-small.png
+
+Choose the appropriate colour format depending on the kind of background you're working with. Aim for good contrast and legibility.
+
+Tagline / No Tagline
+^^^^^^^^^^^^^^^^^^^^^^^
+As far as possible, try to use the logo with the tagline. However, in cases where the logo is sized too small for the tagline to be legible, you can use the logo without the tagline.
+
+Full colour logo (*without* tagline):
+
+.. image:: assets/images/FlowArtes-Logo_color-small.png
+
+Black logo (*without* tagline):
+
+.. image:: assets/images/FlowArtes-Logo_black-small.png
+
+Reverse white logo (*without* tagline):
+
+.. image:: assets/images/FlowArtes-Logo_white-small.png
+
+
+Vertical logo variant
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The FlowArtes logo is quite long; it may not scale very well in certain situations e.g. in a vertical banner.
+
+In cases like this, you can use the vertical logo:
+
+.. image:: assets/images/FlowArtes-Logo_vertical-color-tagline-small.png
+
+Here's a simple example:
+
+The logo looks too small when placed in the banner.
+
+.. image:: assets/images/vertical-orientation-02.png
+   :height: 300px
+
+Fix this problem by using the vertical logo:
+
+.. image:: assets/images/vertical-orientation-01.png
+   :height: 300px
+
+Clear Space
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Try not to have stuff come too close to the logo. Ideally, we would like to have some space around the logo when it's being placed together with text, other logos, graphics, etc. Here's a rough guide on estimating the minimum clear space you'll need.
+
+.. image:: assets/images/clear-space.png
+
+There should be a clear space of at least the radius of the the logo's emblem all round the entire logo.
+
+Emblem/Icon use
+^^^^^^^^^^^^^^^^^^^^^^^
+
+In certain cases where the size and space available is too small for any text to be legible, you can consider using the emblem alone to represent the FlowArtes brand.
+
+Here are some examples of these cases.
+
+Social media avatar (Facebook):
+
+.. image:: assets/images/fbpage.png
+
+Website favicon:
+
+.. image:: assets/images/favicon-example.png
+
+
+.. _logo-downloads:
+
+Downloads
+-----------
+
+Download high quality files for the logo and its variations here.
+
+Compilations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+All the logo variations in one file.
+
+* :download:`AI <assets/flowartes-logo-files/flowartes-logos.ai>`
+* :download:`PDF <assets/flowartes-logo-files/flowartes-logos.pdf>`
+
+Full Logo, with tagline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Full Color:**
+
+.. image:: assets/images/FlowArtes-Logo_color-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_color.png>`
+* :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_color.eps>`
+
+**Black:**
+
+.. image:: assets/images/FlowArtes-Logo_color-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_black-tagline.png>` 
+* :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_black-tagline.eps>`
+
+**Reverse White:**
+
+* :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_white-tagline.png>` 
+* :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_white-tagline.eps>`
+
+
+Full Logo, without tagline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: assets/images/FlowArtes-Logo_color-small.png
+
+**Full Color:**
+
+* :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_color.png>` 
+* :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_color.eps>`
+
+**Black:**
+
+.. image:: assets/images/FlowArtes-Logo_black-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_black.png>` 
+* :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_black.eps>`
+
+**Reverse White:**
+
+.. image:: assets/images/FlowArtes-Logo_white-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_white.png>` 
+* :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_white.eps>`
+
+Vertical Logo, with tagline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Full Color:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-color-tagline-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_vertical-color-tagline.png>` 
+* :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_vertical-color-tagline.eps>`
+
+**Black:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-black-tagline-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_vertical-black-tagline.png>` 
+* :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_vertical-black-tagline.eps>`
+
+**Reverse White:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-white-tagline-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_vertical-white-tagline.png>` 
+* :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_vertical-white-tagline.eps>`
+
+
+Vertical Logo, without tagline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Full Color:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-color-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_vertical-color.png>` 
+* :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_vertical-color.eps>`
+
+**Black:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-black-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_vertical-black.png>` 
+* :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_vertical-black.eps>`
+
+**Reverse White:**
+
+.. image:: assets/images/FlowArtes-Logo_vertical-white-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_vertical-white.png>` 
+* :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_vertical-white.eps>`
+
+Emblem/Icon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Full Color:**
+
+.. image:: assets/images/FlowArtes-Logo_emblem-color-small.png
+   :height: 300px
+
+* :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_emblem-color.png>` 
+* :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_emblem-color.eps>`
+
+**Black:**
+
+.. image:: assets/images/FlowArtes-Logo_emblem-black-small.png
+   :height: 300px
+
+* :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_emblem-black.png>` 
+* :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_emblem-black.eps>`
+
+**Reverse White:**
+
+.. image:: assets/images/FlowArtes-Logo_emblem-white-small.png
+
+* :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_emblem-white.png>` 
+* :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_emblem-white.eps>`
+
+.. |br| raw:: html
+
+   <br/>
