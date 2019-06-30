@@ -108,19 +108,21 @@ Full Logo, with tagline
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Full Color:**
 
-.. image:: assets/images/FlowArtes-Logo_color-small.png
+.. image:: assets/images/FlowArtes-Logo_color-tagline-small.png
 
 * :download:`PNG <assets/flowartes-logo-files/color/png/FlowArtes-Logo_color.png>`
 * :download:`EPS <assets/flowartes-logo-files/color/eps/FlowArtes-Logo_color.eps>`
 
 **Black:**
 
-.. image:: assets/images/FlowArtes-Logo_color-small.png
+.. image:: assets/images/FlowArtes-Logo_black-tagline-small.png
 
 * :download:`PNG <assets/flowartes-logo-files/black/png/FlowArtes-Logo_black-tagline.png>` 
 * :download:`EPS <assets/flowartes-logo-files/black/eps/FlowArtes-Logo_black-tagline.eps>`
 
 **Reverse White:**
+
+.. image:: assets/images/FlowArtes-Logo_white-tagline-small.png
 
 * :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_white-tagline.png>` 
 * :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_white-tagline.eps>`
@@ -221,6 +223,7 @@ Emblem/Icon
 **Reverse White:**
 
 .. image:: assets/images/FlowArtes-Logo_emblem-white-small.png
+   :height: 300px
 
 * :download:`PNG <assets/flowartes-logo-files/white/png/FlowArtes-Logo_emblem-white.png>` 
 * :download:`EPS <assets/flowartes-logo-files/white/eps/FlowArtes-Logo_emblem-white.eps>`
