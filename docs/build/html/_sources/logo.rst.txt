@@ -13,7 +13,7 @@ Colours and contrast
 
 The FlowArtes logo and its variants are available in full colour, black and reverse white.
 
-Full colour logo (with tagline):|br|
+Full colour logo (with tagline):
 
 .. image:: assets/images/FlowArtes-Logo_color-tagline-small.png
 
@@ -21,7 +21,7 @@ Black logo (with tagline):|br|
 
 .. image:: assets/images/FlowArtes-Logo_black-tagline-small.png
 
-Reverse white logo (with tagline):|br|
+Reverse white logo (with tagline):
 
 .. image:: assets/images/FlowArtes-Logo_white-tagline-small.png
 
@@ -31,15 +31,15 @@ Tagline / No Tagline
 ^^^^^^^^^^^^^^^^^^^^^^^
 As far as possible, try to use the logo with the tagline. However, in cases where the logo is sized too small for the tagline to be legible, you can use the logo without the tagline.
 
-Full colour logo (*without* tagline):|br|
+Full colour logo (*without* tagline):
 
 .. image:: assets/images/FlowArtes-Logo_color-small.png
 
-Black logo (*without* tagline):|br|
+Black logo (*without* tagline):
 
 .. image:: assets/images/FlowArtes-Logo_black-small.png
 
-Reverse white logo (*without* tagline):|br|
+Reverse white logo (*without* tagline):
 
 .. image:: assets/images/FlowArtes-Logo_white-small.png
 
@@ -49,18 +49,18 @@ Vertical logo variant
 
 The FlowArtes logo is quite long; it may not scale very well in certain situations e.g. in a vertical banner.
 
-In cases like this, you can use the vertical logo:|br|
+In cases like this, you can use the vertical logo:
 
 .. image:: assets/images/FlowArtes-Logo_vertical-color-tagline-small.png
 
 Here's a simple example:
 
-The logo looks too small when placed in the banner.|br|
+The logo looks too small when placed in the banner.
 
 .. image:: assets/images/vertical-orientation-02.png
    :height: 300px
 
-Fix this problem by using the vertical logo:|br|
+Fix this problem by using the vertical logo:
 
 .. image:: assets/images/vertical-orientation-01.png
    :height: 300px
